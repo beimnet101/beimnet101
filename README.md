@@ -6,7 +6,7 @@
 - 🌱 I’m graduated with CS at Addis Ababa University
   
 
-- 🔭 I’m currently working on [Workwaves](http;//workwaves.vercel.app)
+- 🔭 I’m currently working on [Workwaves](https://workwaves.vercel.app)
 
 - 🌱 I’m currently learning **golang**
 
