@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Beimnet Worku</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate developer from Ethiopia</h3>
+
+
+- 👀 I’m interested in machine learning 
+- 🌱 I’m graduated with CS at Addis Ababa University
+  
 
 - 🔭 I’m currently working on [Workwaves](workwaves.vercel.app)
 
